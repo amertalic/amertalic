@@ -1,4 +1,4 @@
-# Hi, My name is Amer 👋
+# Hi, my name is Amer 👋
 
 - 👀 I’m interested in Python and data science 
 - 🌱 I’m currently learning Python modules for data science
